@@ -79,6 +79,10 @@ Certifique-se de ter o Flutter e o Android Studio configurados corretamente no s
 
 ---
 
+[GitHub](https://github.com/marcos-devmob) | [LinkedIn](https://www.linkedin.com/in/marcosaurelioalves/)    
+
+---
+
 MIT License
 
 Copyright (c) 2025 Marcos Aurélio
