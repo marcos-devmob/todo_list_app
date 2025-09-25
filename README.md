@@ -12,15 +12,19 @@ Um aplicativo de lista de tarefas feito em **Flutter**, permitindo adicionar, re
 ## Screenshots
 
 ![Tela Principal](![Home](https://github.com/user-attachments/assets/d7dea54f-874d-45f0-9d53-be268faf1c43)
+)
 )!
 
 ![Botão de Delete](![Delete](https://github.com/user-attachments/assets/62652873-29f9-4000-bb6e-8e8abcd97ea0)
+)
 )!
 
-  ![Limpar tudo](![LimparTudo](https://github.com/user-attachments/assets/7c14864b-4216-4aea-a351-08c62a38a547)
+![Limpar tudo](![LimparTudo](https://github.com/user-attachments/assets/7c14864b-4216-4aea-a351-08c62a38a547)
+)
 )!
 
 ![Tela de Tarefas](![TarefasAdicionadas](https://github.com/user-attachments/assets/af8e4549-9549-46c7-a01b-f2b6ee7a3d5a)
+)
 )!
 
 
