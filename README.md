@@ -33,23 +33,32 @@ Um aplicativo de lista de tarefas feito em **Flutter**, permitindo adicionar, re
 1. Clone este repositório:
    ```bash
    git clone https://github.com/marcos-devmob/todo_list_app.git
+   ```
 2. Entre na pasta do projeto:
+   ```bash
    cd todo_list_app
-
-3.Instale as dependências:
-  flutter pub get
-  
+   ```
+3. Instale as dependências:
+   ```bash
+   flutter pub get
+   ```
 4. Rode o aplicativo:
-  flutter run
+   ```bash
+   flutter run
+   ```
 
+---
 
 ## Estrutura do Projeto
 
-lib/ – código fonte do app
-models/ – modelos de dados
-repositories/ – lógica de armazenamento
-pages/ – telas do app
-widgets/ – componentes reutilizáveis
+- `lib/` – código fonte do app
+  - `models/` – modelos de dados
+  - `repositories/` – lógica de armazenamento
+  - `pages/` – telas do app
+  - `widgets/` – componentes reutilizáveis
 
-Autor
+---
+
+## Autor
+
 Marcos Aurélio
